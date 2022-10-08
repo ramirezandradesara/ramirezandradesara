@@ -29,6 +29,6 @@ I'm looking for my first experience in the tech field. I've been learning Web de
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 - <h4> 📫 How to reach me: </h4>
-<br /> <br />
+
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sararamirezandrade@gmail.com)](mailto:sararamirezandrade@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sara-ramirez-andrade/)](https://www.linkedin.com/in/sara-ramirez-andrade/) 
