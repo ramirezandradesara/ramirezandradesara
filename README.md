@@ -1,6 +1,6 @@
 ### Hi everyone! My name is Sara and I'm a Frontend Developer 👋
 
-- 💻 Technologies I use: 
+- <h4> 💻 Technologies I use: </h4>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
