@@ -1,6 +1,8 @@
-### Hi everyone! My name is Sara and I'm a Frontend Developer 👋
+## Hi everyone! My name is Sara and I'm a Frontend Developer 👋
 
 I'm looking for my first experience in the tech field. I've been learning Web development since 2021. I like learning new things everyday about this field.
+<br />
+I'm currently studying at Digital House to become a Fullstack Web Developer
 
 - <h4> 💻 Technologies I use daily: </h4>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
