@@ -4,6 +4,7 @@ I'm looking for my first experience in the tech field. I've been learning Web de
 <br />
 I'm currently studying at Digital House to become a Fullstack Web Developer.
 
+---
 - <h4> 💻 Technologies I use daily: </h4>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -42,4 +43,5 @@ I'm currently studying at Digital House to become a Fullstack Web Developer.
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sararamirezandrade@gmail.com)](mailto:sararamirezandrade@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sara-ramirez-andrade/)](https://www.linkedin.com/in/sara-ramirez-andrade/) 
 
+---
 ![TopLang](https://github-readme-stats.vercel.app/api/top-langs/?username=ramirezandradesara&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
