@@ -47,4 +47,4 @@ I'm currently studying at Digital House to become a Fullstack Web Developer.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sara-ramirez-andrade/)](https://www.linkedin.com/in/sara-ramirez-andrade/) 
 
 ---
-![TopLang](	https://github-readme-stats.vercel.app/api/top-langs/?username=ramirezandradesara&theme=blue-green)
+![TopLang](https://github-readme-stats.vercel.app/api/top-langs/?username=ramirezandradesara&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
