@@ -1,4 +1,6 @@
-## Hi everyone! My name is Sara and I'm a Frontend Developer 👋
+<h1> Hi everyone! My name is Sara Ramírez. 👋 </h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Work+Sans&duration=3500&pause=1000&color=CBAEF2&width=435&lines=A+Frontend+Developer+and+UX%2FUI+Designer.+)](https://git.io/typing-svg)
 
 I'm looking for my first experience in the tech field. I've been learning Web development since 2021. I like learning new things everyday about this field.
 <br />
@@ -48,3 +50,6 @@ I'm currently studying at Digital House to become a Fullstack Web Developer.
 
 ---
 ![TopLang](https://github-readme-stats.vercel.app/api/top-langs/?username=ramirezandradesara&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ramirezandradesara&theme=blueberry">
