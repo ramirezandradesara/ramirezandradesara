@@ -13,6 +13,7 @@ I'm currently studying at Digital House to become a Fullstack Web Developer.
    * [League of Legends](https://github.com/ramirezandradesara/league-of-legends)
    * [Splitter](https://github.com/ramirezandradesara/splitter-tip-calculator-app)
    * [Meditation App](https://github.com/ramirezandradesara/meditation-app-react)
+   * [My Marvel Store](https://github.com/ramirezandradesara/ctd-esp-fe3-final)
 
 - <h4> 💻 Technologies I use daily: </h4>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
