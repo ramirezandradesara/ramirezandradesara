@@ -2,10 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Work+Sans&duration=3500&pause=1000&color=CBAEF2&width=435&lines=A+Frontend+Developer+and+UX%2FUI+Designer.+)](https://git.io/typing-svg)
 
-I'm looking for my first experience in the tech field. I've been learning Web development since 2021. I like learning new things everyday about this field.
-<br />
-I'm currently studying at Digital House to become a Fullstack Web Developer.
-
 ---
 - <h4> 💪🏽 Projects: </h4>
 
