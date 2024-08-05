@@ -44,6 +44,7 @@
 
 
 - <h4> 🌱 I’m currently learning: </h4>
+![Express-js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![React-Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 - <h4> 📫 How to reach me: </h4>
