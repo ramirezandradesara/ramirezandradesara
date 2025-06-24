@@ -1,4 +1,4 @@
-<h1> Hi everyone! My name is Sara Ramírez. 👋 </h1>
+<h1> Hi everyone! I'm Sara Ramírez. 👋 </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Work+Sans&duration=3500&pause=1000&color=CBAEF2&width=435&lines=A+Frontend+Developer+and+UX%2FUI+Designer.+)](https://git.io/typing-svg)
 ---
@@ -50,6 +50,3 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sararamirezandrade@gmail.com)](mailto:sararamirezandrade@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sara-ramirez-andrade/)](https://www.linkedin.com/in/sara-ramirez-andrade/) 
-
----
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ramirezandradesara&theme=blueberry">
